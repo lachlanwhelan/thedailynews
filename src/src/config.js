@@ -1,0 +1,1 @@
+export const NYTIMES_KEY = 'whQktYGVqJAkSkaELoMuox7bs2sCMYaQ';
